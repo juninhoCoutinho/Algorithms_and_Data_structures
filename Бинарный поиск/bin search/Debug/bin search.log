@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\vlad king\4 cem\ОСи\bin search\bin search\Source.cpp(46,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  bin search.vcxproj -> D:\vlad king\4 cem\ОСи\bin search\Debug\bin search.exe
